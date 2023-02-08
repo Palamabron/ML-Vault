@@ -315,17 +315,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edb3da233651b2f7",
+  "active": "67aa2388cc7fdb84",
   "lastOpenFiles": [
+    "Fields/Times Series.md",
+    "Fields/Regression.md",
+    "Fields/Clustering.md",
+    "Fields/Classification.md",
+    "Fields/Anomaly Detection.md",
     "Libraries/Tensorflow.md",
     "Libraries/Scikit-learn.md",
-    "Fields/Anomaly Detection.md",
     "Automl.md",
     "Libraries/CatBoost.md",
-    "Libraries/XGBoost.md",
-    "Libraries/Pycaret.md",
-    "Libraries/Pytorch.md",
-    "Libraries/LightGBM.md",
-    "Machine Learning.md"
+    "Libraries/XGBoost.md"
   ]
 }

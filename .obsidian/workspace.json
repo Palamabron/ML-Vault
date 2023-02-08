@@ -49,14 +49,146 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Libraries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe6090283c9a1219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scikit-learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15c06271705f67bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pytorch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c6f30ee71002119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tensorflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0f8c063ac0ec20a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pycaret.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4163ae380bbf2187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd85d62beb755ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Times Series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b935d5eef262d29f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clustering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0734334cfaf69f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XGBoost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7f67664e879b3b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LightGBM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "097d511efd5576f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CatBoost.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a155cfc28f352c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -122,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Libraries.md"
               }
             }
           },
@@ -191,10 +323,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "630058bf1b8bd4e9",
+  "active": "a155cfc28f352c3b",
   "lastOpenFiles": [
-    "Anomaly Detection.md",
-    "Classification.md",
-    "Regression.md"
+    "Machine Learning.md",
+    "Untitled 1.md",
+    "CatBoost.md",
+    "LightGBM.md",
+    "XGBoost.md",
+    "Clustering.md",
+    "Times Series.md",
+    "Automl.md",
+    "Pycaret.md",
+    "Tensorflow.md"
   ]
 }

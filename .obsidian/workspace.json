@@ -169,26 +169,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CatBoost.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a155cfc28f352c3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries.md",
+                "file": "Anomaly Detection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -254,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries.md",
+                "file": "Anomaly Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries.md",
+                "file": "Anomaly Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libraries.md"
+                "file": "Anomaly Detection.md"
               }
             }
           },
@@ -323,17 +311,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a155cfc28f352c3b",
+  "active": "097d511efd5576f6",
   "lastOpenFiles": [
-    "Machine Learning.md",
-    "Untitled 1.md",
-    "CatBoost.md",
-    "LightGBM.md",
-    "XGBoost.md",
-    "Clustering.md",
-    "Times Series.md",
     "Automl.md",
+    "CatBoost.md",
+    "XGBoost.md",
+    "Tensorflow.md",
+    "Scikit-learn.md",
     "Pycaret.md",
-    "Tensorflow.md"
+    "Pytorch.md",
+    "LightGBM.md",
+    "Machine Learning.md",
+    "Problem fields.md"
   ]
 }

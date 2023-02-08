@@ -1,5 +1,2 @@
-[[Clustering]]
-[[Regression]]
-[[Times Series]]
-[[Classification]]
-[[Anomaly Detection]]
+[[Libraries]]
+[[Problem fields]]

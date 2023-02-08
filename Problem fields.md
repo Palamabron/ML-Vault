@@ -1,0 +1,5 @@
+[[Clustering]]
+[[Regression]]
+[[Times Series]]
+[[Classification]]
+[[Anomaly Detection]]

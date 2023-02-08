@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regression.md",
+                "file": "Fields/Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classification.md",
+                "file": "Fields/Classification.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anomaly Detection.md",
+                "file": "Fields/Anomaly Detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scikit-learn.md",
+                "file": "Libraries/Scikit-learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pytorch.md",
+                "file": "Libraries/Pytorch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tensorflow.md",
+                "file": "Libraries/Tensorflow.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pycaret.md",
+                "file": "Libraries/Pycaret.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Times Series.md",
+                "file": "Fields/Times Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clustering.md",
+                "file": "Fields/Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XGBoost.md",
+                "file": "Libraries/XGBoost.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LightGBM.md",
+                "file": "Libraries/LightGBM.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,14 +169,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anomaly Detection.md",
+                "file": "Libraries/Scikit-learn.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "67aa2388cc7fdb84",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -242,7 +250,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anomaly Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +266,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anomaly Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,9 +287,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Anomaly Detection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -311,17 +315,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "097d511efd5576f6",
+  "active": "edb3da233651b2f7",
   "lastOpenFiles": [
+    "Libraries/Tensorflow.md",
+    "Libraries/Scikit-learn.md",
+    "Fields/Anomaly Detection.md",
     "Automl.md",
-    "CatBoost.md",
-    "XGBoost.md",
-    "Tensorflow.md",
-    "Scikit-learn.md",
-    "Pycaret.md",
-    "Pytorch.md",
-    "LightGBM.md",
-    "Machine Learning.md",
-    "Problem fields.md"
+    "Libraries/CatBoost.md",
+    "Libraries/XGBoost.md",
+    "Libraries/Pycaret.md",
+    "Libraries/Pytorch.md",
+    "Libraries/LightGBM.md",
+    "Machine Learning.md"
   ]
 }

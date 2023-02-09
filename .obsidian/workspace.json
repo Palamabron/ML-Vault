@@ -11,157 +11,9 @@
             "id": "4c6f30ee71002119",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "7d100d8dfda1c466",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/Pandas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "883bb72c9042839b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/Seaborn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60015cd08ce3b0b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Preprocessing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47a97e5f81bf85cd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "dd10b7854865d2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Visualization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56b7b1f40aef5150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/Pycaret.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0f8c063ac0ec20a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/Pycaret.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4163ae380bbf2187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd85d62beb755ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields/Times Series.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b935d5eef262d29f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields/Clustering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0734334cfaf69f43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/XGBoost.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7f67664e879b3b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/LightGBM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "097d511efd5576f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/Scikit-learn.md",
+                "file": "Libraries/TPOT.md",
                 "mode": "source",
                 "source": false
               }
@@ -260,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -326,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries/Pycaret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +194,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries/Pycaret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -365,9 +215,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Libraries/Pycaret.md"
-              }
+              "state": {}
             }
           },
           {
@@ -395,17 +243,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56b7b1f40aef5150",
+  "active": "67aa2388cc7fdb84",
   "lastOpenFiles": [
     "Libraries/TPOT.md",
+    "Automl.md",
+    "Libraries/Pycaret.md",
     "Data Visualization.md",
     "Libraries/Pandas Profiling.md",
     "Data Preprocessing.md",
     "Libraries/Seaborn.md",
     "Machine Learning.md",
     "Libraries/Pandas.md",
-    "Libraries/Ultralytics.md",
-    "Fields/Segmentation.md",
-    "Fields/Semantic Segmentation.md"
+    "Libraries/Ultralytics.md"
   ]
 }

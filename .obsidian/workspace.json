@@ -16,6 +16,74 @@
             }
           },
           {
+            "id": "7d100d8dfda1c466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/Pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "883bb72c9042839b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/Seaborn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60015cd08ce3b0b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Preprocessing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47a97e5f81bf85cd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd10b7854865d2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Visualization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56b7b1f40aef5150",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/Pycaret.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e0f8c063ac0ec20a",
             "type": "leaf",
             "state": {
@@ -191,7 +259,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,6 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libraries/Pycaret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,6 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Libraries/Pycaret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +365,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Libraries/Pycaret.md"
+              }
             }
           },
           {
@@ -322,17 +395,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c6f30ee71002119",
+  "active": "56b7b1f40aef5150",
   "lastOpenFiles": [
+    "Libraries/TPOT.md",
+    "Data Visualization.md",
+    "Libraries/Pandas Profiling.md",
+    "Data Preprocessing.md",
+    "Libraries/Seaborn.md",
+    "Machine Learning.md",
+    "Libraries/Pandas.md",
     "Libraries/Ultralytics.md",
     "Fields/Segmentation.md",
-    "Fields/Semantic Segmentation.md",
-    "Fields/Instance Segmentation.md",
-    "Fields/Regression.md",
-    "Fields/Detection.md",
-    "Fields/Computer Vision.md",
-    "Libraries/Tensorflow.md",
-    "Libraries/Pytorch.md",
-    "Libraries/Scikit-learn.md"
+    "Fields/Semantic Segmentation.md"
   ]
 }

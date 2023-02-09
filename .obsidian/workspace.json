@@ -8,87 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2ea9edc2fdcf0c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields/Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63dc30126f14150e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields/Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de1f7c580216e155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields/Anomaly Detection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "630058bf1b8bd4e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe6090283c9a1219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/Scikit-learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15c06271705f67bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/Pytorch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c6f30ee71002119",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/Tensorflow.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -182,9 +106,92 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c9494fd9274fc659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fields/Computer Vision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a20f48d1f595cc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries/Ultralytics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15967620f9a008e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fields/Detection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50d86d8361143c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fields/Segmentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "458df5a3d410eb01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fields/Computer Vision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3808c9cffc3f2ddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fields/Instance Segmentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d56595b7ee4a0cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libraries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -315,17 +322,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67aa2388cc7fdb84",
+  "active": "4c6f30ee71002119",
   "lastOpenFiles": [
-    "Fields/Times Series.md",
+    "Libraries/Ultralytics.md",
+    "Fields/Segmentation.md",
+    "Fields/Semantic Segmentation.md",
+    "Fields/Instance Segmentation.md",
     "Fields/Regression.md",
-    "Fields/Clustering.md",
-    "Fields/Classification.md",
-    "Fields/Anomaly Detection.md",
+    "Fields/Detection.md",
+    "Fields/Computer Vision.md",
     "Libraries/Tensorflow.md",
-    "Libraries/Scikit-learn.md",
-    "Automl.md",
-    "Libraries/CatBoost.md",
-    "Libraries/XGBoost.md"
+    "Libraries/Pytorch.md",
+    "Libraries/Scikit-learn.md"
   ]
 }

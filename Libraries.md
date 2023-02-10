@@ -1,8 +1,10 @@
 [[CatBoost]]
 [[LightGBM]]
 [[XGBoost]]
-[[Pycaret]]
 [[Pytorch]]
 [[Scikit-learn]]
 [[Tensorflow]]
 [[Ultralytics]]
+
+Automl:
+[[Automl]]

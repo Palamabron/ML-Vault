@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libraries/CatBoost.md",
+                "file": "Ranking.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: ra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libraries/CatBoost.md",
+                "file": "Ranking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libraries/CatBoost.md",
+                "file": "Ranking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libraries/CatBoost.md"
+                "file": "Ranking.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "67aa2388cc7fdb84",
   "lastOpenFiles": [
+    "Fields/Clustering.md",
+    "Libraries/CatBoost.md",
     "Libraries/XGBoost.md",
     "Libraries.md",
     "Ranking.md",
@@ -176,8 +178,6 @@
     "Fields/Anomaly Detection.md",
     "Libraries/LightGBM.md",
     "Problem fields.md",
-    "Libraries/TPOT.md",
-    "Fields/Computer Vision.md",
-    "Libraries/Ultralytics.md"
+    "Libraries/TPOT.md"
   ]
 }

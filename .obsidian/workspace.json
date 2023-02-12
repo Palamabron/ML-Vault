@@ -8,107 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c6f30ee71002119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/TPOT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "67aa2388cc7fdb84",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c9494fd9274fc659",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Fields/Computer Vision.md",
+                "file": "Libraries/LightGBM.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1a20f48d1f595cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libraries/Ultralytics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15967620f9a008e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields/Detection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50d86d8361143c25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields/Segmentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "458df5a3d410eb01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields/Computer Vision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3808c9cffc3f2ddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields/Instance Segmentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d56595b7ee4a0cfb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libraries/LightGBM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Libraries/LightGBM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Libraries/LightGBM.md"
+              }
             }
           },
           {
@@ -240,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d56595b7ee4a0cfb",
+  "active": "67aa2388cc7fdb84",
   "lastOpenFiles": [
-    "Libraries.md",
-    "Fields/Computer Vision.md",
-    "Libraries/Pycaret.md",
-    "Automl.md",
     "Libraries/TPOT.md",
-    "Data Visualization.md",
+    "Fields/Computer Vision.md",
+    "Libraries/Ultralytics.md",
+    "Fields/Detection.md",
+    "Fields/Segmentation.md",
+    "Fields/Instance Segmentation.md",
     "Libraries/Pandas Profiling.md",
-    "Data Preprocessing.md",
-    "Libraries/Seaborn.md",
-    "Machine Learning.md"
+    "Libraries.md",
+    "Libraries/Pycaret.md",
+    "Automl.md"
   ]
 }

@@ -20,5 +20,6 @@ A proportional shrinking of leaf nodes
 Newton Boosting
 Extra randomization parameter
 Automatic Feature Selection
+Works with GPU (supports [[CUDA]])
 
 

@@ -8,3 +8,7 @@
 
 Automl:
 [[Automl]]
+
+GPU:
+[[CUDA]]
+[[CUDNN]]

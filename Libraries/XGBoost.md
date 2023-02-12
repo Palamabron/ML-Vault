@@ -1,6 +1,7 @@
 #library
 
-
+In short:
+highly accurate but slower than [[LightGBM]]
 
 Used for:
 classification

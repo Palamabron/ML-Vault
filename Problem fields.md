@@ -3,3 +3,5 @@
 [[Times Series]]
 [[Classification]]
 [[Anomaly Detection]]
+[[Feature Selection]]
+[[Ranking]]

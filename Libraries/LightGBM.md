@@ -3,7 +3,7 @@ Light Gradient Boosting Machine
 
 In short: is fast and almost as effective as [[XGBoost]]
 
-It uses:
+It ensambles:
 GBT (GRADIENT BOOSTING TREE)
 GBDT (GRADIENT BOOSTING DECISION TREE)
 GBRT (GRADIENT BOOSTING REGRESSION TREE)

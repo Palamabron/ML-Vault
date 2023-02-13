@@ -161,6 +161,7 @@
   },
   "active": "67aa2388cc7fdb84",
   "lastOpenFiles": [
+    "Automl.md",
     "Ranking.md",
     "Fields/Clustering.md",
     "Libraries/CatBoost.md",
@@ -169,7 +170,6 @@
     "Feature Selection.md",
     "Fields/Anomaly Detection.md",
     "Libraries/LightGBM.md",
-    "Problem fields.md",
-    "Libraries/TPOT.md"
+    "Problem fields.md"
   ]
 }

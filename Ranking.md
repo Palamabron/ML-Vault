@@ -7,4 +7,4 @@ Examples:
 - System of recommendations (every e-commerce)
 - Targeted ads
 
-
+  

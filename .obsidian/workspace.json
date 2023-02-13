@@ -11,12 +11,8 @@
             "id": "67aa2388cc7fdb84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ranking.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ranking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ranking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ranking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,11 +161,11 @@
   },
   "active": "67aa2388cc7fdb84",
   "lastOpenFiles": [
+    "Ranking.md",
     "Fields/Clustering.md",
     "Libraries/CatBoost.md",
     "Libraries/XGBoost.md",
     "Libraries.md",
-    "Ranking.md",
     "Feature Selection.md",
     "Fields/Anomaly Detection.md",
     "Libraries/LightGBM.md",
